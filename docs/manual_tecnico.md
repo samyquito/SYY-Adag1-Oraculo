@@ -115,7 +115,7 @@ Se asume el formato de `datos_visibles.json`: una lista de objetos con `id`, `pr
 - El resultado es la mejor configuración encontrada, no un óptimo global demostrado.
 - Con el modelo real, el backtracking usa un subespacio y una cota sin admisibilidad demostrada.
 - El test privado incluye familias nuevas y podría requerir verificadores adicionales en `Oraculo(registros=...)`.
-- `B` real fue de 1803 generaciones por método, porque el modelo genera unas 0,5 respuestas por segundo en una T4. Ninguna heurística convergió.
+- `B` real fue de 1803 generaciones por método, porque el modelo genera unas 0,5 respuestas por segundo en una T4. El ascenso por coordenadas y el backtracking agotaron `B` antes de terminar.
 - `ascenso_coordenadas` descarta las medidas de la ranura en curso cuando se agota `B`. En la corrida midió formato 0 con 11%, pero reportó 8%. Se corregirá para la siguiente entrega.
 - La configuración entregada usa temperatura 0.7 y se midió con una sola semilla.
 

@@ -20,7 +20,7 @@ rol 7, estrategia 0, formato 0, estilo 2, cierre 1, temperatura 0.7.
 | Backtracking en subespacio | 8% | 1800 |
 
 En validación obtuvo 11,5% (10 de 87). Con `B` = 1803 generaciones por método
-ningún método convergió; los detalles están en el informe y en `resultados/`.
+el ascenso por coordenadas y el backtracking agotaron el presupuesto antes de terminar; los detalles están en el informe y en `resultados/`.
 
 ## Integrantes
 
