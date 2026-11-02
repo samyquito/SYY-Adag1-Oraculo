@@ -23,7 +23,10 @@ maximizar la precisión con un presupuesto limitado de consultas al modelo.
     ├── notebooks/
     │   ├── 01_busqueda.ipynb     # cómo se obtuvo la configuración
     │   └── 02_evaluacion.ipynb   # carga entrega.json y evalúa
-    ├── src/                  # código de la solución base
+    ├── src/
+    │   ├── busqueda.py           # backtracking, halving y coordenadas
+    │   └── oraculo_sintetico.py  # oráculo simulado para pruebas
+    ├── tests/                # pruebas sin GPU
     ├── resultados/           # registro de evaluaciones y trazas de fallos
     └── docs/
         └── manual_tecnico.md
@@ -39,12 +42,22 @@ maximizar la precisión con un presupuesto limitado de consultas al modelo.
 
 ## Entorno
 
-- Lenguaje: Python (versión por definir)
-- Dependencias: ver `requirements.txt`
+- Pruebas locales: Python 3.12 (probado con 3.12.5), sin GPU.
+- Búsqueda y evaluación: Google Colab con GPU T4.
+- Dependencias: ver `requirements.txt`.
 
 ## Cómo ejecutar
 
-Pendiente: se completa cuando la solución base esté lista.
+Pruebas con el oráculo sintético, sin GPU:
+
+    pip install pytest
+    python -m pytest
+
+Búsqueda real: abrir `notebooks/01_busqueda.ipynb` en Colab con GPU T4 y seguir sus
+secciones. Los resultados quedan en Drive, en `oraculo_g01/`.
+
+Evaluación: abrir `notebooks/02_evaluacion.ipynb` en Colab y usar Ejecutar todo. Lee
+`entrega.json` y, si existe, `datos_privados.json`; si no, usa la partición de validación.
 
 ## Alcance y limitaciones
 
