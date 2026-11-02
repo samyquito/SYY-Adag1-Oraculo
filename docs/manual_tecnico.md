@@ -25,7 +25,7 @@ Las dependencias están en `requirements.txt`. Los notebooks instalan las suyas 
 | `notebooks/01_busqueda.ipynb` | Búsqueda real, análisis de trazas, validación y generación de `entrega.json` |
 | `notebooks/02_evaluacion.ipynb` | Carga `entrega.json` y evalúa la configuración |
 | `entrega.json` | Mejor configuración encontrada |
-| `resultados/` | Copia de `oraculo_g01` de la corrida real: registros por método, caché, `resumen.json` y `comparacion.png` |
+| `resultados/` | Copia de `oraculo_g01` de la corrida real: registros por método, caché, `resumen.json` y `comparacion.png`. `graficar_comparacion.py` genera `comparacion_informe.png`, la figura del informe, que solo cuenta configuraciones completas |
 
 El código no copia `oraculo.py`. Los algoritmos reciben una función `evaluar(config, instancias, semilla)`, que puede ser el oráculo real o el sintético.
 
