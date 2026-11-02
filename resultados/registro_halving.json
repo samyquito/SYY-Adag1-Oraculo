@@ -1,0 +1,5679 @@
+[
+ {
+  "orden": 1,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 2,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 2,
+  "config": {
+   "rol": 4,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 4,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 3,
+  "config": {
+   "rol": 0,
+   "estrategia": 3,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 6,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 4,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 8,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 5,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 10,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 6,
+  "config": {
+   "rol": 5,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 12,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 7,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 14,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 8,
+  "config": {
+   "rol": 3,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 16,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 9,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 18,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 10,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 20,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 11,
+  "config": {
+   "rol": 6,
+   "estrategia": 1,
+   "formato": 6,
+   "estilo": 2,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 22,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 12,
+  "config": {
+   "rol": 2,
+   "estrategia": 2,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 24,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 13,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.5,
+  "nuevas": 2,
+  "acumuladas": 26,
+  "fallos": {
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 14,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 28,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 15,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 30,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 16,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 32,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 17,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 34,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 18,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 36,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 19,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 38,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 20,
+  "config": {
+   "rol": 5,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 40,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 21,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 42,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 22,
+  "config": {
+   "rol": 6,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 44,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 23,
+  "config": {
+   "rol": 1,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 46,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 24,
+  "config": {
+   "rol": 3,
+   "estrategia": 2,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 48,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 25,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 50,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 26,
+  "config": {
+   "rol": 7,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 1,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 52,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 27,
+  "config": {
+   "rol": 0,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 54,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 28,
+  "config": {
+   "rol": 7,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 56,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 29,
+  "config": {
+   "rol": 3,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 58,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 30,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.5,
+  "nuevas": 2,
+  "acumuladas": 60,
+  "fallos": {
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 31,
+  "config": {
+   "rol": 5,
+   "estrategia": 7,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 62,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 32,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 4,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 64,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 33,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 4,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 66,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 34,
+  "config": {
+   "rol": 4,
+   "estrategia": 5,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 68,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 35,
+  "config": {
+   "rol": 3,
+   "estrategia": 2,
+   "formato": 7,
+   "estilo": 6,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 70,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 36,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 0,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 72,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 37,
+  "config": {
+   "rol": 6,
+   "estrategia": 6,
+   "formato": 5,
+   "estilo": 1,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 74,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 38,
+  "config": {
+   "rol": 2,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 76,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 39,
+  "config": {
+   "rol": 5,
+   "estrategia": 7,
+   "formato": 1,
+   "estilo": 1,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 78,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 40,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 80,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 41,
+  "config": {
+   "rol": 4,
+   "estrategia": 5,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 82,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 42,
+  "config": {
+   "rol": 5,
+   "estrategia": 4,
+   "formato": 3,
+   "estilo": 7,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 84,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 43,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 6,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 86,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 44,
+  "config": {
+   "rol": 0,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 4,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 88,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 45,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 90,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 46,
+  "config": {
+   "rol": 0,
+   "estrategia": 1,
+   "formato": 1,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 92,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 47,
+  "config": {
+   "rol": 0,
+   "estrategia": 7,
+   "formato": 7,
+   "estilo": 5,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 94,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 48,
+  "config": {
+   "rol": 7,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 96,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 49,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 98,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 50,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 6,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 100,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 51,
+  "config": {
+   "rol": 7,
+   "estrategia": 1,
+   "formato": 0,
+   "estilo": 1,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 102,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 52,
+  "config": {
+   "rol": 6,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 6,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 104,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 53,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.5,
+  "nuevas": 2,
+  "acumuladas": 106,
+  "fallos": {
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 54,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 108,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 55,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 7,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 110,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 56,
+  "config": {
+   "rol": 3,
+   "estrategia": 4,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 2,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 112,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 57,
+  "config": {
+   "rol": 2,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 114,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 58,
+  "config": {
+   "rol": 7,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 116,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 59,
+  "config": {
+   "rol": 3,
+   "estrategia": 3,
+   "formato": 6,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 118,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 60,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 120,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 61,
+  "config": {
+   "rol": 0,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 122,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 62,
+  "config": {
+   "rol": 2,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 124,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 63,
+  "config": {
+   "rol": 6,
+   "estrategia": 0,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 2,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 126,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 64,
+  "config": {
+   "rol": 2,
+   "estrategia": 2,
+   "formato": 7,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 128,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 65,
+  "config": {
+   "rol": 2,
+   "estrategia": 4,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 130,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 66,
+  "config": {
+   "rol": 1,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 132,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 67,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 5,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 134,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 68,
+  "config": {
+   "rol": 4,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 6,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 136,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 69,
+  "config": {
+   "rol": 0,
+   "estrategia": 7,
+   "formato": 6,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 138,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 70,
+  "config": {
+   "rol": 0,
+   "estrategia": 6,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 2,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 140,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 71,
+  "config": {
+   "rol": 3,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 3,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 142,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 72,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 144,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 73,
+  "config": {
+   "rol": 5,
+   "estrategia": 1,
+   "formato": 6,
+   "estilo": 0,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 146,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 74,
+  "config": {
+   "rol": 1,
+   "estrategia": 1,
+   "formato": 2,
+   "estilo": 3,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 148,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 75,
+  "config": {
+   "rol": 3,
+   "estrategia": 1,
+   "formato": 5,
+   "estilo": 6,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 150,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 76,
+  "config": {
+   "rol": 5,
+   "estrategia": 7,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 152,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 77,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 5,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 154,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 78,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 156,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 79,
+  "config": {
+   "rol": 1,
+   "estrategia": 2,
+   "formato": 5,
+   "estilo": 1,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 158,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 80,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 5,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 160,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 81,
+  "config": {
+   "rol": 3,
+   "estrategia": 4,
+   "formato": 3,
+   "estilo": 1,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 162,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 82,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 164,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 83,
+  "config": {
+   "rol": 2,
+   "estrategia": 1,
+   "formato": 2,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 166,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 84,
+  "config": {
+   "rol": 6,
+   "estrategia": 3,
+   "formato": 3,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 168,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 85,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 5,
+   "estilo": 4,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 170,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 86,
+  "config": {
+   "rol": 6,
+   "estrategia": 2,
+   "formato": 1,
+   "estilo": 1,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 172,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 87,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 4,
+   "estilo": 2,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 174,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 88,
+  "config": {
+   "rol": 4,
+   "estrategia": 5,
+   "formato": 7,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 176,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 89,
+  "config": {
+   "rol": 0,
+   "estrategia": 7,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 178,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 90,
+  "config": {
+   "rol": 6,
+   "estrategia": 2,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 180,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 91,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 182,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 92,
+  "config": {
+   "rol": 3,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 184,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 93,
+  "config": {
+   "rol": 6,
+   "estrategia": 1,
+   "formato": 0,
+   "estilo": 7,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 186,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 94,
+  "config": {
+   "rol": 2,
+   "estrategia": 4,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 188,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 95,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 190,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 96,
+  "config": {
+   "rol": 1,
+   "estrategia": 7,
+   "formato": 5,
+   "estilo": 4,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 192,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 97,
+  "config": {
+   "rol": 2,
+   "estrategia": 0,
+   "formato": 1,
+   "estilo": 2,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 194,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 98,
+  "config": {
+   "rol": 1,
+   "estrategia": 7,
+   "formato": 7,
+   "estilo": 3,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 196,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 99,
+  "config": {
+   "rol": 0,
+   "estrategia": 2,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 198,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 100,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 200,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 101,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.5,
+  "nuevas": 2,
+  "acumuladas": 202,
+  "fallos": {
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 102,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 204,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 103,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 206,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 104,
+  "config": {
+   "rol": 0,
+   "estrategia": 5,
+   "formato": 7,
+   "estilo": 1,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 208,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 105,
+  "config": {
+   "rol": 0,
+   "estrategia": 7,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 210,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 106,
+  "config": {
+   "rol": 7,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 2,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 212,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 107,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 7,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 214,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 108,
+  "config": {
+   "rol": 1,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 0,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 216,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 109,
+  "config": {
+   "rol": 0,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 3,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 218,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 110,
+  "config": {
+   "rol": 0,
+   "estrategia": 6,
+   "formato": 6,
+   "estilo": 6,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 220,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 111,
+  "config": {
+   "rol": 7,
+   "estrategia": 3,
+   "formato": 5,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 222,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 112,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 0,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 224,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 113,
+  "config": {
+   "rol": 7,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 4,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 226,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 114,
+  "config": {
+   "rol": 4,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 228,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 115,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 230,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 116,
+  "config": {
+   "rol": 5,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 0,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 232,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 117,
+  "config": {
+   "rol": 2,
+   "estrategia": 7,
+   "formato": 4,
+   "estilo": 1,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 234,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 118,
+  "config": {
+   "rol": 5,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 1,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 236,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 119,
+  "config": {
+   "rol": 2,
+   "estrategia": 4,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 238,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 120,
+  "config": {
+   "rol": 2,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 240,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 121,
+  "config": {
+   "rol": 7,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 6,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 242,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 122,
+  "config": {
+   "rol": 6,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 244,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 123,
+  "config": {
+   "rol": 4,
+   "estrategia": 3,
+   "formato": 6,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 246,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 124,
+  "config": {
+   "rol": 6,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 248,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 125,
+  "config": {
+   "rol": 2,
+   "estrategia": 7,
+   "formato": 3,
+   "estilo": 7,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 250,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1
+  }
+ },
+ {
+  "orden": 126,
+  "config": {
+   "rol": 4,
+   "estrategia": 6,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 252,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 127,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.5,
+  "nuevas": 2,
+  "acumuladas": 254,
+  "fallos": {
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 128,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 2,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 256,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1
+  }
+ },
+ {
+  "orden": 129,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 258,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 130,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 260,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 131,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 262,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 132,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 264,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 133,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 266,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 134,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 268,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 135,
+  "config": {
+   "rol": 4,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 270,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 136,
+  "config": {
+   "rol": 0,
+   "estrategia": 3,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 272,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 137,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 274,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 138,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 276,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 139,
+  "config": {
+   "rol": 5,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 278,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 140,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 280,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 141,
+  "config": {
+   "rol": 3,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 282,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 142,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 284,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 143,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 286,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 144,
+  "config": {
+   "rol": 6,
+   "estrategia": 1,
+   "formato": 6,
+   "estilo": 2,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 288,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 145,
+  "config": {
+   "rol": 2,
+   "estrategia": 2,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 290,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 146,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 292,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 147,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 294,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 148,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 296,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 149,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 298,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 150,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 300,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 151,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.25,
+  "nuevas": 2,
+  "acumuladas": 302,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 152,
+  "config": {
+   "rol": 5,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 304,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 153,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 306,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 154,
+  "config": {
+   "rol": 6,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 308,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 155,
+  "config": {
+   "rol": 1,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 310,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 156,
+  "config": {
+   "rol": 3,
+   "estrategia": 2,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 312,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 157,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 314,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 158,
+  "config": {
+   "rol": 7,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 1,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 316,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 159,
+  "config": {
+   "rol": 0,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 318,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 160,
+  "config": {
+   "rol": 7,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 320,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 161,
+  "config": {
+   "rol": 3,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 322,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 162,
+  "config": {
+   "rol": 5,
+   "estrategia": 7,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 324,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 163,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 4,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 326,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 164,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 4,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 328,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 165,
+  "config": {
+   "rol": 4,
+   "estrategia": 5,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 330,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 166,
+  "config": {
+   "rol": 3,
+   "estrategia": 2,
+   "formato": 7,
+   "estilo": 6,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 332,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 167,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 0,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 334,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 168,
+  "config": {
+   "rol": 6,
+   "estrategia": 6,
+   "formato": 5,
+   "estilo": 1,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 336,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 169,
+  "config": {
+   "rol": 2,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 338,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 170,
+  "config": {
+   "rol": 5,
+   "estrategia": 7,
+   "formato": 1,
+   "estilo": 1,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 340,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 171,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 342,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 172,
+  "config": {
+   "rol": 4,
+   "estrategia": 5,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 344,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 173,
+  "config": {
+   "rol": 5,
+   "estrategia": 4,
+   "formato": 3,
+   "estilo": 7,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 346,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 174,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 1,
+   "estilo": 6,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 348,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 175,
+  "config": {
+   "rol": 0,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 4,
+   "cierre": 1,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 350,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 176,
+  "config": {
+   "rol": 5,
+   "estrategia": 6,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 352,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 177,
+  "config": {
+   "rol": 0,
+   "estrategia": 1,
+   "formato": 1,
+   "estilo": 4,
+   "cierre": 5,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 354,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 178,
+  "config": {
+   "rol": 0,
+   "estrategia": 7,
+   "formato": 7,
+   "estilo": 5,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 356,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 179,
+  "config": {
+   "rol": 7,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 358,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 180,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 360,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 181,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 6,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 362,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 182,
+  "config": {
+   "rol": 7,
+   "estrategia": 1,
+   "formato": 0,
+   "estilo": 1,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 364,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 183,
+  "config": {
+   "rol": 6,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 6,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 366,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 184,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.0
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 368,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 185,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 7,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 370,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 186,
+  "config": {
+   "rol": 3,
+   "estrategia": 4,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 2,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 372,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 187,
+  "config": {
+   "rol": 2,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 4,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 374,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 188,
+  "config": {
+   "rol": 7,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 376,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 189,
+  "config": {
+   "rol": 3,
+   "estrategia": 3,
+   "formato": 6,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 378,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 190,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 380,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 191,
+  "config": {
+   "rol": 0,
+   "estrategia": 5,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 382,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 192,
+  "config": {
+   "rol": 2,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 4,
+  "precision": 0.0,
+  "nuevas": 2,
+  "acumuladas": 384,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1
+  }
+ },
+ {
+  "orden": 193,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 388,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 194,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 392,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 195,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 396,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 196,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 400,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 197,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 404,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 198,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.125,
+  "nuevas": 4,
+  "acumuladas": 408,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 199,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 412,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 200,
+  "config": {
+   "rol": 4,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 416,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 201,
+  "config": {
+   "rol": 0,
+   "estrategia": 3,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 420,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 202,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 424,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 203,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 428,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 204,
+  "config": {
+   "rol": 5,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 432,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 205,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 436,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 206,
+  "config": {
+   "rol": 3,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 440,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 207,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 444,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 208,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 448,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 209,
+  "config": {
+   "rol": 6,
+   "estrategia": 1,
+   "formato": 6,
+   "estilo": 2,
+   "cierre": 0,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 452,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 210,
+  "config": {
+   "rol": 2,
+   "estrategia": 2,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 456,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 211,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 460,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 212,
+  "config": {
+   "rol": 3,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 464,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 213,
+  "config": {
+   "rol": 1,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 468,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 214,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 5,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 472,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 215,
+  "config": {
+   "rol": 6,
+   "estrategia": 4,
+   "formato": 6,
+   "estilo": 1,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 476,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 216,
+  "config": {
+   "rol": 5,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 4,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 480,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 217,
+  "config": {
+   "rol": 7,
+   "estrategia": 4,
+   "formato": 1,
+   "estilo": 3,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 484,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 218,
+  "config": {
+   "rol": 6,
+   "estrategia": 3,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 1,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 488,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 219,
+  "config": {
+   "rol": 1,
+   "estrategia": 4,
+   "formato": 4,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 492,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 220,
+  "config": {
+   "rol": 3,
+   "estrategia": 2,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 496,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 221,
+  "config": {
+   "rol": 1,
+   "estrategia": 0,
+   "formato": 3,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.0
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 500,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 222,
+  "config": {
+   "rol": 7,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 1,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 504,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1
+  }
+ },
+ {
+  "orden": 223,
+  "config": {
+   "rol": 0,
+   "estrategia": 6,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 5,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 508,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 1,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 224,
+  "config": {
+   "rol": 7,
+   "estrategia": 2,
+   "formato": 2,
+   "estilo": 7,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 8,
+  "precision": 0.0,
+  "nuevas": 4,
+  "acumuladas": 512,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1
+  }
+ },
+ {
+  "orden": 225,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 520,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 2,
+   "language:response_language": 1,
+   "keywords:existence": 1
+  }
+ },
+ {
+  "orden": 226,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 16,
+  "precision": 0.125,
+  "nuevas": 8,
+  "acumuladas": 528,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 227,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.125,
+  "nuevas": 8,
+  "acumuladas": 536,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 228,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 544,
+  "fallos": {
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 229,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 16,
+  "precision": 0.125,
+  "nuevas": 8,
+  "acumuladas": 552,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1
+  }
+ },
+ {
+  "orden": 230,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 560,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 2,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:forbidden_words": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1
+  }
+ },
+ {
+  "orden": 231,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 568,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 232,
+  "config": {
+   "rol": 4,
+   "estrategia": 3,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 7,
+   "temperatura": 0.0
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 576,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 233,
+  "config": {
+   "rol": 0,
+   "estrategia": 3,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0,
+  "nuevas": 8,
+  "acumuladas": 584,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "startend:quotation": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 234,
+  "config": {
+   "rol": 2,
+   "estrategia": 6,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 0,
+   "temperatura": 0.0
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 592,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 235,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 5,
+   "estilo": 0,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0,
+  "nuevas": 8,
+  "acumuladas": 600,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "keywords:existence": 2,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1
+  }
+ },
+ {
+  "orden": 236,
+  "config": {
+   "rol": 5,
+   "estrategia": 1,
+   "formato": 3,
+   "estilo": 5,
+   "cierre": 6,
+   "temperatura": 0.3
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 608,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 237,
+  "config": {
+   "rol": 4,
+   "estrategia": 2,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 616,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "detectable_format:square_brackets": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 238,
+  "config": {
+   "rol": 3,
+   "estrategia": 1,
+   "formato": 7,
+   "estilo": 0,
+   "cierre": 3,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0,
+  "nuevas": 8,
+  "acumuladas": 624,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 239,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 5,
+   "estilo": 2,
+   "cierre": 6,
+   "temperatura": 0.7
+  },
+  "n": 16,
+  "precision": 0.0625,
+  "nuevas": 8,
+  "acumuladas": 632,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1
+  }
+ },
+ {
+  "orden": 240,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 16,
+  "precision": 0.125,
+  "nuevas": 8,
+  "acumuladas": 640,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 1,
+   "detectable_format:square_brackets": 1,
+   "startend:quotation": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1
+  }
+ },
+ {
+  "orden": 241,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 32,
+  "precision": 0.0625,
+  "nuevas": 16,
+  "acumuladas": 656,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "startend:quotation": 1,
+   "copy:copy": 2,
+   "keywords:word_once": 1,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1,
+   "punctuation:no_comma": 1
+  }
+ },
+ {
+  "orden": 242,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 32,
+  "precision": 0.09375,
+  "nuevas": 16,
+  "acumuladas": 672,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "copy:copy": 2,
+   "keywords:word_once": 1,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1,
+   "punctuation:no_comma": 1
+  }
+ },
+ {
+  "orden": 243,
+  "config": {
+   "rol": 5,
+   "estrategia": 2,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.3
+  },
+  "n": 32,
+  "precision": 0.0625,
+  "nuevas": 16,
+  "acumuladas": 688,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "detectable_format:constrained_response": 1,
+   "copy:copy": 2,
+   "keywords:word_once": 1,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 2,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "copy:repeat_phrase": 1,
+   "keywords:frequency": 1
+  }
+ },
+ {
+  "orden": 244,
+  "config": {
+   "rol": 3,
+   "estrategia": 6,
+   "formato": 4,
+   "estilo": 3,
+   "cierre": 3,
+   "temperatura": 0.3
+  },
+  "n": 32,
+  "precision": 0.0625,
+  "nuevas": 16,
+  "acumuladas": 704,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 3,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 2,
+   "detectable_format:square_brackets": 1,
+   "startend:quotation": 2,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "change_case:capital_word_frequency": 1,
+   "copy:copy": 2,
+   "letters:letter_counting": 1,
+   "length_constraints:number_paragraphs": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1,
+   "keywords:frequency": 1
+  }
+ },
+ {
+  "orden": 245,
+  "config": {
+   "rol": 5,
+   "estrategia": 3,
+   "formato": 0,
+   "estilo": 4,
+   "cierre": 2,
+   "temperatura": 0.0
+  },
+  "n": 32,
+  "precision": 0.03125,
+  "nuevas": 16,
+  "acumuladas": 720,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 2,
+   "language:response_language": 1,
+   "keywords:existence": 1,
+   "change_case:capital_word_frequency": 1,
+   "detectable_format:constrained_response": 1,
+   "copy:copy": 2,
+   "keywords:forbidden_words": 1,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "punctuation:punctuation_exclamation": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1,
+   "keywords:frequency": 1
+  }
+ },
+ {
+  "orden": 246,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 32,
+  "precision": 0.09375,
+  "nuevas": 16,
+  "acumuladas": 736,
+  "fallos": {
+   "punctuation:punctuation_dot": 2,
+   "startend:quotation": 1,
+   "last_word:last_word_sent": 2,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "copy:copy": 2,
+   "keywords:word_once": 1,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1
+  }
+ },
+ {
+  "orden": 247,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 32,
+  "precision": 0.09375,
+  "nuevas": 16,
+  "acumuladas": 752,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 1,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 2,
+   "keywords:existence": 2,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "keywords:forbidden_words": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "copy:copy": 2,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "startend:quotation": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 2,
+   "copy:repeat_phrase": 1,
+   "keywords:frequency": 1
+  }
+ },
+ {
+  "orden": 248,
+  "config": {
+   "rol": 4,
+   "estrategia": 0,
+   "formato": 6,
+   "estilo": 7,
+   "cierre": 7,
+   "temperatura": 0.3
+  },
+  "n": 32,
+  "precision": 0.03125,
+  "nuevas": 16,
+  "acumuladas": 768,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "paragraphs:paragraphs": 1,
+   "startend:quotation": 2,
+   "last_word:last_word_sent": 3,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 2,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "keywords:keyword_specific_position": 1,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 1,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "copy:copy": 2,
+   "letters:letter_counting": 1,
+   "punctuation:punctuation_dot": 1,
+   "keywords:start_end": 1,
+   "detectable_format:sentence_hyphens": 1,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 1,
+   "last_word:last_word_answer": 1,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 1,
+   "punctuation:no_comma": 1
+  }
+ },
+ {
+  "orden": 249,
+  "config": {
+   "rol": 0,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 6,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 64,
+  "precision": 0.109375,
+  "nuevas": 32,
+  "acumuladas": 800,
+  "fallos": {
+   "punctuation:punctuation_dot": 4,
+   "last_word:last_word_sent": 4,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 2,
+   "detectable_format:square_brackets": 1,
+   "change_case:english_lowercase": 1,
+   "keywords:keyword_specific_position": 2,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "copy:copy": 4,
+   "keywords:word_once": 2,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 3,
+   "detectable_format:sentence_hyphens": 2,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 2,
+   "last_word:last_word_answer": 2,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 2,
+   "copy:repeat_phrase": 2,
+   "punctuation:no_comma": 2,
+   "new:copy_span_idx": 2,
+   "detectable_content:postscript": 1,
+   "detectable_format:number_highlighted_sections": 1,
+   "punctuation:punctuation_exclamation": 1,
+   "startend:quotation": 1,
+   "combination:repeat_prompt": 1,
+   "keywords:exclude_word_harder": 1,
+   "startend:end_checker": 1,
+   "keywords:word_count_different_numbers": 2
+  }
+ },
+ {
+  "orden": 250,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 64,
+  "precision": 0.171875,
+  "nuevas": 32,
+  "acumuladas": 832,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "startend:quotation": 2,
+   "last_word:last_word_sent": 4,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 3,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 2,
+   "copy:copy": 4,
+   "keywords:word_once": 2,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 3,
+   "detectable_format:sentence_hyphens": 2,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 2,
+   "last_word:last_word_answer": 2,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 2,
+   "new:copy_span_idx": 2,
+   "detectable_format:number_highlighted_sections": 1,
+   "punctuation:punctuation_exclamation": 1,
+   "combination:repeat_prompt": 1,
+   "startend:end_checker": 1,
+   "keywords:frequency": 1
+  }
+ },
+ {
+  "orden": 251,
+  "config": {
+   "rol": 2,
+   "estrategia": 5,
+   "formato": 3,
+   "estilo": 0,
+   "cierre": 0,
+   "temperatura": 0.7
+  },
+  "n": 64,
+  "precision": 0.109375,
+  "nuevas": 32,
+  "acumuladas": 864,
+  "fallos": {
+   "letters:letter_counting2": 1,
+   "punctuation:punctuation_dot": 2,
+   "last_word:last_word_sent": 4,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "keywords:word_once": 3,
+   "keywords:existence": 2,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 2,
+   "keywords:forbidden_words": 1,
+   "keywords:keyword_specific_position": 3,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 2,
+   "copy:copy": 4,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 3,
+   "detectable_format:sentence_hyphens": 2,
+   "detectable_format:json_format": 1,
+   "startend:quotation": 2,
+   "last_word:last_word_answer": 3,
+   "detectable_format:bigram_wrapping": 2,
+   "copy:repeat_phrase": 2,
+   "keywords:frequency": 2,
+   "first_word:first_word_answer": 1,
+   "new:copy_span_idx": 2,
+   "detectable_format:number_highlighted_sections": 1,
+   "punctuation:punctuation_exclamation": 1,
+   "change_case:capital_word_frequency": 2,
+   "combination:repeat_prompt": 1,
+   "keywords:exclude_word_harder": 1,
+   "startend:end_checker": 1,
+   "keywords:word_count_different_numbers": 1
+  }
+ },
+ {
+  "orden": 252,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 64,
+  "precision": 0.125,
+  "nuevas": 32,
+  "acumuladas": 896,
+  "fallos": {
+   "punctuation:punctuation_dot": 4,
+   "last_word:last_word_sent": 5,
+   "length_constraints:nth_paragraph_first_word": 1,
+   "copy:copying_multiple": 1,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 1,
+   "paragraphs:paragraphs": 2,
+   "keywords:keyword_specific_position": 3,
+   "first_word:first_word_sent": 1,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 1,
+   "startend:quotation": 2,
+   "copy:copy": 4,
+   "keywords:word_once": 2,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 3,
+   "detectable_format:sentence_hyphens": 2,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 3,
+   "last_word:last_word_answer": 3,
+   "detectable_format:bigram_wrapping": 1,
+   "change_case:english_capital": 1,
+   "copy:repeat_phrase": 2,
+   "punctuation:no_comma": 2,
+   "new:copy_span_idx": 2,
+   "detectable_format:number_highlighted_sections": 1,
+   "combination:repeat_prompt": 1,
+   "keywords:exclude_word_harder": 1,
+   "startend:end_checker": 1
+  }
+ },
+ {
+  "orden": 253,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 100,
+  "precision": 0.16,
+  "nuevas": 36,
+  "acumuladas": 932,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "startend:quotation": 2,
+   "last_word:last_word_sent": 6,
+   "length_constraints:nth_paragraph_first_word": 2,
+   "copy:copying_multiple": 2,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 4,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 4,
+   "first_word:first_word_sent": 3,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 4,
+   "copy:copy": 6,
+   "keywords:word_once": 3,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 4,
+   "detectable_format:sentence_hyphens": 3,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 3,
+   "last_word:last_word_answer": 2,
+   "detectable_format:bigram_wrapping": 2,
+   "change_case:english_capital": 3,
+   "copy:repeat_phrase": 4,
+   "new:copy_span_idx": 5,
+   "detectable_format:number_highlighted_sections": 1,
+   "punctuation:punctuation_exclamation": 2,
+   "combination:repeat_prompt": 1,
+   "startend:end_checker": 1,
+   "keywords:frequency": 1,
+   "detectable_format:number_bullet_lists": 2,
+   "length_constraints:number_paragraphs": 1,
+   "change_case:english_lowercase": 1
+  }
+ },
+ {
+  "orden": 254,
+  "config": {
+   "rol": 5,
+   "estrategia": 0,
+   "formato": 2,
+   "estilo": 2,
+   "cierre": 4,
+   "temperatura": 0.0
+  },
+  "n": 100,
+  "precision": 0.1,
+  "nuevas": 36,
+  "acumuladas": 968,
+  "fallos": {
+   "punctuation:punctuation_dot": 4,
+   "last_word:last_word_sent": 7,
+   "length_constraints:nth_paragraph_first_word": 2,
+   "copy:copying_multiple": 2,
+   "length_constraints:number_words": 1,
+   "detectable_format:square_brackets": 3,
+   "paragraphs:paragraphs": 2,
+   "keywords:keyword_specific_position": 4,
+   "first_word:first_word_sent": 3,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 3,
+   "startend:quotation": 3,
+   "copy:copy": 6,
+   "keywords:word_once": 3,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 4,
+   "detectable_format:sentence_hyphens": 4,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 4,
+   "last_word:last_word_answer": 4,
+   "detectable_format:bigram_wrapping": 2,
+   "change_case:english_capital": 3,
+   "copy:repeat_phrase": 4,
+   "punctuation:no_comma": 3,
+   "new:copy_span_idx": 5,
+   "detectable_format:number_highlighted_sections": 1,
+   "combination:repeat_prompt": 1,
+   "keywords:exclude_word_harder": 1,
+   "startend:end_checker": 3,
+   "detectable_format:number_bullet_lists": 1,
+   "length_constraints:number_paragraphs": 1,
+   "change_case:english_lowercase": 1
+  }
+ },
+ {
+  "orden": 255,
+  "config": {
+   "rol": 7,
+   "estrategia": 0,
+   "formato": 0,
+   "estilo": 2,
+   "cierre": 1,
+   "temperatura": 0.7
+  },
+  "n": 100,
+  "precision": 0.16,
+  "nuevas": 0,
+  "acumuladas": 968,
+  "fallos": {
+   "punctuation:punctuation_dot": 3,
+   "startend:quotation": 2,
+   "last_word:last_word_sent": 6,
+   "length_constraints:nth_paragraph_first_word": 2,
+   "copy:copying_multiple": 2,
+   "length_constraints:number_words": 1,
+   "keywords:existence": 1,
+   "detectable_format:square_brackets": 4,
+   "paragraphs:paragraphs": 1,
+   "combination:two_responses": 1,
+   "keywords:keyword_specific_position": 4,
+   "first_word:first_word_sent": 3,
+   "language:response_language": 2,
+   "paragraphs:paragraphs2": 1,
+   "change_case:capital_word_frequency": 4,
+   "copy:copy": 6,
+   "keywords:word_once": 3,
+   "letters:letter_counting": 1,
+   "keywords:start_end": 4,
+   "detectable_format:sentence_hyphens": 3,
+   "detectable_format:json_format": 1,
+   "first_word:first_word_answer": 3,
+   "last_word:last_word_answer": 2,
+   "detectable_format:bigram_wrapping": 2,
+   "change_case:english_capital": 3,
+   "copy:repeat_phrase": 4,
+   "new:copy_span_idx": 5,
+   "detectable_format:number_highlighted_sections": 1,
+   "punctuation:punctuation_exclamation": 2,
+   "combination:repeat_prompt": 1,
+   "startend:end_checker": 1,
+   "keywords:frequency": 1,
+   "detectable_format:number_bullet_lists": 2,
+   "length_constraints:number_paragraphs": 1,
+   "change_case:english_lowercase": 1
+  }
+ }
+]

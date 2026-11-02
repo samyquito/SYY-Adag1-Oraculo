@@ -6,7 +6,21 @@ Búsqueda de la mejor configuración de prompt para un LLM: se elige un índice
 de rol, estrategia, formato, estilo y cierre, más la temperatura, buscando
 maximizar la precisión con un presupuesto limitado de consultas al modelo.
 
-> **Estado:** primera entrega, solución base en desarrollo.
+> **Estado:** primera entrega. Búsqueda real completada en Colab (T4, `qwen17b`).
+
+## Resultado
+
+Configuración entregada (`entrega.json`), elegida por Successive Halving:
+rol 7, estrategia 0, formato 0, estilo 2, cierre 1, temperatura 0.7.
+
+| Método | Precisión en búsqueda (n = 100) | Generaciones |
+| --- | --- | --- |
+| Ascenso por coordenadas | 8% | 1800 |
+| Successive Halving | **16%** | 968 |
+| Backtracking en subespacio | 8% | 1800 |
+
+En validación obtuvo 11,5% (10 de 87). Con `B` = 1803 generaciones por método
+ningún método convergió; los detalles están en el informe y en `resultados/`.
 
 ## Integrantes
 
@@ -19,7 +33,7 @@ maximizar la precisión con un presupuesto limitado de consultas al modelo.
     adag1-oraculo/
     ├── README.md
     ├── requirements.txt
-    ├── entrega.json          # mejor configuración encontrada (pendiente)
+    ├── entrega.json          # mejor configuración encontrada
     ├── notebooks/
     │   ├── 01_busqueda.ipynb     # cómo se obtuvo la configuración
     │   └── 02_evaluacion.ipynb   # carga entrega.json y evalúa
@@ -27,7 +41,7 @@ maximizar la precisión con un presupuesto limitado de consultas al modelo.
     │   ├── busqueda.py           # backtracking, halving y coordenadas
     │   └── oraculo_sintetico.py  # oráculo simulado para pruebas
     ├── tests/                # pruebas sin GPU
-    ├── resultados/           # registro de evaluaciones y trazas de fallos
+    ├── resultados/           # registros por método, caché, resumen y gráfica
     └── docs/
         └── manual_tecnico.md
 

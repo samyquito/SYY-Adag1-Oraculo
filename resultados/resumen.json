@@ -1,0 +1,23 @@
+{
+ "metodo": "halving",
+ "precision_busqueda": 0.16,
+ "precision_validacion": 0.11494252873563218,
+ "B": 1803,
+ "velocidad": 0.5009684214593707,
+ "generaciones": {
+  "coordenadas": 1800,
+  "backtracking": 1800,
+  "halving": 968
+ },
+ "temperaturas": {
+  "0.0": 0.08,
+  "0.3": 0.06333333333333334,
+  "0.7": 0.06
+ },
+ "descartes": [],
+ "backtracking": {
+  "nodos": 16,
+  "hojas": 6,
+  "podas": 1
+ }
+}

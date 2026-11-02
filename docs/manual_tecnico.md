@@ -24,7 +24,8 @@ Las dependencias están en `requirements.txt`. Los notebooks instalan las suyas 
 | `tests/test_busqueda.py` | Pruebas de corrección, costo, presupuesto y formato |
 | `notebooks/01_busqueda.ipynb` | Búsqueda real, análisis de trazas, validación y generación de `entrega.json` |
 | `notebooks/02_evaluacion.ipynb` | Carga `entrega.json` y evalúa la configuración |
-| `entrega.json` | Mejor configuración encontrada (se agrega al terminar la búsqueda) |
+| `entrega.json` | Mejor configuración encontrada |
+| `resultados/` | Copia de `oraculo_g01` de la corrida real: registros por método, caché, `resumen.json` y `comparacion.png` |
 
 El código no copia `oraculo.py`. Los algoritmos reciben una función `evaluar(config, instancias, semilla)`, que puede ser el oráculo real o el sintético.
 
@@ -114,6 +115,20 @@ Se asume el formato de `datos_visibles.json`: una lista de objetos con `id`, `pr
 - El resultado es la mejor configuración encontrada, no un óptimo global demostrado.
 - Con el modelo real, el backtracking usa un subespacio y una cota sin admisibilidad demostrada.
 - El test privado incluye familias nuevas y podría requerir verificadores adicionales en `Oraculo(registros=...)`.
-- Los notebooks se probaron de punta a punta solo con un oráculo simulado hasta que se complete una corrida real en Colab.
+- `B` real fue de 1803 generaciones por método, porque el modelo genera unas 0,5 respuestas por segundo en una T4. Ninguna heurística convergió.
+- `ascenso_coordenadas` descarta las medidas de la ranura en curso cuando se agota `B`. En la corrida midió formato 0 con 11%, pero reportó 8%. Se corregirá para la siguiente entrega.
+- La configuración entregada usa temperatura 0.7 y se midió con una sola semilla.
 
-**Pendiente:** resultados de la corrida real, `entrega.json` definitivo y confirmación del formato de los datos privados.
+## Resultados de la corrida real
+
+Colab con GPU T4, modelo `qwen17b`, velocidad 0,50 generaciones/s, `B` = 1803 por método.
+
+| Método | Precisión en búsqueda | Generaciones | Configuración |
+| --- | --- | --- | --- |
+| Ascenso por coordenadas | 8% | 1800 | rol 5, estrategia 1, formato 2, estilo 3, cierre 7, T 0.0 |
+| Successive Halving | 16% | 968 | rol 7, estrategia 0, formato 0, estilo 2, cierre 1, T 0.7 |
+| Backtracking | 8% | 1800 | rol 0, estrategia 2, formato 0, estilo 3, cierre 0, T 0.0 |
+
+La configuración de Successive Halving es la de `entrega.json`. En validación obtuvo 11,5% (10 de 87). No hubo descartes por trazas porque ninguna ranura completa superó `PISO` = 10%.
+
+**Pendiente:** confirmar el formato de los datos privados.
