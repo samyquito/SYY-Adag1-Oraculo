@@ -201,6 +201,25 @@ def test_backtracking_sin_poda_recorre_todas_las_hojas():
     assert r.precision == 1.0
 
 
+@pytest.mark.parametrize("k,n", [(2, 7), (3, 10), (4, 5)])
+def test_peor_caso_de_backtracking_coincide_con_t_del_informe(k, n):
+    """T = n · Σ_{j=1..d} k^j cuando ninguna cota permite podar."""
+    o = caso(k=k, n=n, imposibles=0.5, semilla=2)
+    c = consultor(o)
+    r = backtracking(c, o.opciones, cota_parcial(c, holgura=1.0))
+    assert r.precision < 1.0
+    assert r.detalle["podas"] == 0
+    assert c.generaciones == n * sum(k**j for j in range(1, len(RANURAS) + 1))
+
+
+def test_costo_con_tope_coincide_con_la_formula_del_informe():
+    """|C|·n0·r* + N·|C|·(2^(1-r*) - 2^(1-R)), con |C| = 2^R."""
+    R, n0, N, r_tope = 10, 2, 100, 6
+    C = 2**R
+    formula = C * n0 * r_tope + N * C * (2 ** (1 - r_tope) - 2 ** (1 - R))
+    assert costo_successive_halving(C, n0, N) == formula
+
+
 def test_mejores_opciones_ordena_por_la_mejor_precision_observada():
     registro = [
         {"config": {"rol": 0, "estilo": 1}, "n": 100, "precision": 0.1},
