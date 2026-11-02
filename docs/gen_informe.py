@@ -304,6 +304,7 @@ def titulo(nivel, texto):
     ele(W + "keepLines", ppr, val="1")
     if nivel == 1:
         espaciado(ppr, after=80)
+    ele(W + "outlineLvl", ppr, val=nivel - 1)
     nombre = f"_sec{marcador[0]}"
     ele(W + "bookmarkStart", p, id=marcador[0], name=nombre)
     ele(W + "bookmarkEnd", p, id=marcador[0])
@@ -430,7 +431,8 @@ def indice(entradas, fldprop):
             ele(W + "fldChar", r, fldCharType="begin", dirty="true")
             r = ele(W + "r", p)
             it = ele(W + "instrText", r)
-            it.text = ' TOC \\h \\u \\z \\t "Heading 1,1,Heading 2,2,"'
+            # \o usa el nivel de esquema: funciona aunque Word traduzca "Heading 1" a "Título 1".
+            it.text = ' TOC \\o "1-2" \\h \\u \\z '
             it.set(XML, "preserve")
             r = ele(W + "r", p)
             ele(W + "fldChar", r, fldCharType="separate")
