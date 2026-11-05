@@ -4,6 +4,8 @@ ADAG1, Grupo 1, 2026-B. Rama: `solucion-base`.
 
 Integrantes: Yahir Andrés Rangel Dueñas, Yonier Vásquez Marin y Samuel Quiroga.
 
+La versión formal de este manual, con portada, índice y solución de problemas, está en [`manual_tecnico.docx`](manual_tecnico.docx). Se genera con `python docs/gen_manual.py <informe_original.docx> <destino.docx> resultados`.
+
 Esta solución base no está terminada: cubre la búsqueda y la evaluación de la primera entrega. La sección [Validación y límites](#validación-y-límites) indica qué falta.
 
 ## Entorno

@@ -43,7 +43,9 @@ el ascenso por coordenadas y el backtracking agotaron el presupuesto antes de te
     ├── tests/                # pruebas sin GPU
     ├── resultados/           # registros por método, caché, resumen y gráfica
     └── docs/
-        └── manual_tecnico.md
+        ├── manual_tecnico.docx   # manual técnico (documento formal)
+        ├── manual_tecnico.md     # versión web del manual
+        └── gen_*.py              # generadores del informe y del manual
 
 ## Archivos clave de la entrega
 
@@ -52,7 +54,8 @@ el ascenso por coordenadas y el backtracking agotaron el presupuesto antes de te
 | `entrega.json` | Grupo, semana y mejor configuración (índices + temperatura) |
 | `notebooks/01_busqueda.ipynb` | Método de búsqueda, configuraciones probadas y su precisión, trazas de fallos y validación con `oraculo.validar` |
 | `notebooks/02_evaluacion.ipynb` | Carga `entrega.json` y evalúa sobre los datos de prueba reservados a la profesora |
-| `docs/manual_tecnico.md` | Entorno, arquitectura, funcionamiento, uso y limitaciones |
+| [`docs/manual_tecnico.docx`](docs/manual_tecnico.docx) | Manual técnico: entorno, arquitectura, funcionamiento, uso, validación, límites y solución de problemas |
+| `docs/manual_tecnico.md` | Versión web del manual técnico |
 
 ## Entorno
 
